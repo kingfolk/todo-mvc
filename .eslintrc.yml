@@ -1,1 +1,5 @@
+env:
+  mocha: true
 extends: airbnb
+rules:
+  consistent-return: "off"
