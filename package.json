@@ -1,0 +1,19 @@
+{
+  "name": "todomvc",
+  "version": "0.0.1",
+  "description": "koa + react todomvc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingfolk/todo-mvc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingfolk/todo-mvc/issues"
+  },
+  "homepage": "https://github.com/kingfolk/todo-mvc#readme"
+}
